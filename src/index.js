@@ -1,6 +1,6 @@
 import "./styles.scss";
 
-const headline = "Hello, World!";
+const headline = "klik her";
 document.querySelector("h1").innerText = headline;
 
 console.log(headline);
